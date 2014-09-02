@@ -1,0 +1,13 @@
+{
+  "name" : "streamline-phantom",
+  "description" : "A streamline wrapper around the phantom API.",
+  "version" : "0.1.1",
+  "author" : "Andrius Bentkus <andrius.bentkus@gmail.com>",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/txdv/streamline-phantom"
+  },
+  "engines" : ["node >= 0.10"],
+  "main" : "main",
+  "files" : [ "main.js" ]
+}
